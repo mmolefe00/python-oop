@@ -1,6 +1,6 @@
 # Python OOP Console Programmes
 ## Introduction
-This repository contains three simple console based tasks showing how to use object oriented programming in Python.
+This repository contains three simple console based tasks showing how to use Object-Oriented Programming in Python.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -29,21 +29,16 @@ To run this program, follow these simple steps:
    ```
 
 3. **Run the Program**
+   Replace [file name] with name of the program you want to run: email, method_override or single_inheritance.
    ```bash
-   python email.py
+   python [file name].py
    ```
-  OR
-  ```bash
-   python method_override.py
-   ```
-  OR
-  ```bash
-   python method_override.py
-   ```
+ 
+   
 
  ## Usage
 
-Upon running the program, follow the on-screen instructions and prompts to see how Object oriented programming functions in a simple application.
+Upon running the program, follow the on-screen instructions and prompts to see how Object-Oriented Programming functions in a simple application.
 
 ## Support
 
